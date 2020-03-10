@@ -10,8 +10,17 @@ body {
     color: #fafafa;
 }
 
-.input {
-    margin: 5%;
+label {
+    margin-left: 10%;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+footer {
+    margin-top: 10%;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
 }
 
 .inputOut {
@@ -27,6 +36,5 @@ body {
 }
 
 .output {
-    margin: 5%;
     width: 400px;
 }
