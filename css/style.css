@@ -1,10 +1,9 @@
 body {
     background-color: #085528;
-    filter: contrast(20);
 }
 
 a:visited {
-    color: #b106b1;
+    color: #f764f7;
 }
 
 .navbar {
