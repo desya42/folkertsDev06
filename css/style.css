@@ -1,5 +1,6 @@
 body {
     background-color: #085528;
+    filter: contrast(20);
 }
 
 a:visited {
