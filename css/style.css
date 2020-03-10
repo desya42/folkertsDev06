@@ -27,8 +27,8 @@ label {
 footer {
     margin-top: 10%;
     color: black;
-    font-size: larger;
-    font-weight: bolder;
+    font-weight: 900;
+    font-size: 35px;
 }
 
 .inputOut {
