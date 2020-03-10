@@ -1,9 +1,13 @@
 body {
-    background-color: #085528;
+    background-color: #12BA58;
 }
 
 a:visited {
-    color: #FCD9F6;
+    color: #0E2781;
+}
+
+a {
+    color: #121212;
 }
 
 .navbar {
@@ -22,7 +26,6 @@ label {
 
 footer {
     margin-top: 10%;
-    color: black;
     font-weight: 900;
     font-size: 35px;
 }
